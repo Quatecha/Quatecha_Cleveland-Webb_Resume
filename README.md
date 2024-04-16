@@ -1,227 +1,83 @@
-# Quatecha_Cleveland-Webb_Resume
+# Quatecha Cleveland Webb's Resume
 
-# Quatecha Cleveland
-
-- **Location:** Newark, NJ 07103
-- **Email:** quatecha.21@gmail.com
-- **Willing to relocate:** Anywhere
-- **Authorized to work in the US:** Yes, for any employer
-
-## Education
-
-### Cyber Security Fellow
-**The Knowledge House** - Newark, NJ  
-*September 2023 to Present*
-- 400 plus hours of training
-
-  ## Work Experience
-
-### Real Estate Wholesaler
-**Newark, NJ**  
-*February 2020 to Present*
-
-### Sales Associate/Merchandiser
-**IKEA** - Elizabeth, NJ  
-*September 2022 to July 2023*
-
-### Lead Ramp Agent
-**United Airlines**  
-*May 2019 to October 2020*
-
-### Ramp Agent/Baggage Handler
-**Worldwide Flight Services (WFS)** - Newark, NJ  
-*April 2018 to February 2019*
-
-### Ramp Agent
-**AIRCRAFT SERVICE INTERNATIONAL GROUP**  
-*September 2016 to April 2018*
-
-### Delivery Driver
-**East Orange, NJ**  
-*May 2016 to December 2016*
-
-### Cashier/Stocker
-**McDonald's Franchisee** - Newark, NJ  
-*March 2015 to August 2015*
-
-### Wheelchair Agent
-**PrimeFlight Aviation** - Atlanta, GA  
-*September 2014 to March 2015*
-
-### Cashier/Sales Associate
-**Modell's Sporting Goods** - Newark, NJ
-
-### Package Handler
-**Amazon.com** - Avenel, NJ
-
-## Education
-
-### Entry in Cybersecurity
-**The Knowledge House** - Newark, NJ  
-*September 2023 to Present*
-
-### High school diploma
-**Barringer High School** - Newark, NJ  
-*September 2008 to June 2012*
+## About Me
+I am a versatile professional with a blend of technical expertise and interpersonal skills. With a background in customer support and real estate wholesaling, I have honed my abilities in problem-solving, communication, and negotiation. My career aspirations in tech involve leveraging my skills in Python, Bash Scripting, Cryptography, and Data Analysis to contribute to innovative projects and excel in roles related to cybersecurity and system development.
 
 ## Skills
+- Python
+- Bash Scripting
+- Cryptography
+- Penetration Testing
+- Threat Detection
+- Intrusion Detection
+- Data Analysis
+- Digital Communications
+- Market Analysis
+- System Development
+- Project Management
+- Digital Technology
+- Visual Merchandising
+- Aircraft Pushback
+- Safety Procedures
+- Equipment Operations
+- FAA
+- Ramp Operations
+- Dangerous Goods
 
-- Customer Service (6 years)
-- Ramp & Baggage Handling (3 years)
-- Load & Unload
-- Delivery Driver Experience
-- Driving
-- Warehouse Experience
-- Merchandising
-- Order Picking
-- Organizational Skills
-- Pricing
-- Microsoft Word
-- English
-- Computer Operation
-- Customer service
-- Guest services
-- Communication skills
-- Front desk
-- Packaging
-- Shipping & Receiving
-- Heavy Lifting
-- Sales
-- Freight Experience
-- Materials Handling
-- Store Management Experience
-- Retail Management
-- Marketing (Less than 1 year)
-- Social media management
-- B2B sales (Less than 1 year)
-- Real Estate Wholesaler (1 year)
-- Cash Handling
-- Sales Management
-- real estate investor (1 year)
-- Security Analysis
-- Computer Networking
-- Linux
-- Cybersecurity
-- Information Security
-- Computer Networking
-- Network monitoring (1 year)
-- Network Security
-- SIEM tools
-- DNS
-- Network Firewalls
-- Microsoft Windows Server
-- Operating Systems
-- Network Support
-- DHCP
-- Splunk
-- Cold calling
-- Customer service
-- Sales
-- Communication skills
-- Driving
-- Delivery driver experience
-- Microsoft Outlook
-- Software troubleshooting
-- Computer skills
-- Customer support
-- Windows
-- Git
-- Identity & access management
-- Microsoft Office
-- Technical support
-- Analysis skills
-- Leadership
-- Google Docs
-- iOS
-- Outbound calling
-- Typing
-- Filing
-- Office experience
-- Customer retention
-- Docker
-- Zendesk
-- AWS
-- GitHub
-- Collaboration
-- Slack
-- Microsoft Excel
-- Organizational skills
-- Working with people with disabilities
-- Workforce development
-- Front desk
-- Appointment scheduling
-- Google Suite
-- Digital marketing
-- Salesforce
-- Call center
-- Logistics
-- Phone etiquette
-- Management
-- Order entry
-- Team management
-- Sales support
-- Loyalty marketing
-- SQL
-- Microsoft Word
-- English
-- Microsoft Dynamics 365
-- Snowflake
-- Time management
-- Email marketing
-- Operations management
-- Event planning
-- Contract negotiation
-- Personal assistant experience
-- Administrative experience
-- Office management
-- Photography
-- Data analysis skills
-- Workday
-- Workers' compensation
-- Order fulfillment
-- AI
-- Public speaking
-- Microsoft Powerpoint
-- Account management
-- Software development
-- Recruiting
-- IT
-- Inside sales
-- IT project management
-- Medical administrative support
-- Dental terminology
-- Hospitality
-- Microsoft Dynamics GP
-- Customer relationship management
-- Marketing
-- Conflict management
+## Experience
+### Customer Support Specialist – Ediscovery Software (January 2024 - March 2024)
+- Provided technical assistance and conducted product demonstrations for clients, fostering strong relationships with product and engineering teams.
+- Became proficient in specific areas of the software through rigorous training, enhancing expertise in client issue resolution and product functionality.
+- Developed strong relationships with the Product and Engineering teams.
 
-## Languages
+### Self Employed — Real Estate Wholesaler (March 2022 - Present)
+- Determined whether properties are suitable for resale based on location, condition, and other factors.
+- Identified potential properties that meet clients’ investment criteria based on location, condition, and client investment criteria, negotiating sales terms with buyers and sellers.
+- Organized property listings and created marketing materials, while conducting property appraisals for mortgage loan evaluations.
+- Found buyers for properties listed for sale by brokers or agents on platforms like Facebook marketplace, propwire, zillow, and through driving for dollars.
 
-- English - Expert
+### Lead Ramp Agent — United Airlines (May 2019 - January 2022)
+- Safely maneuvered aircraft and operated mechanical equipment for cargo loading and unloading, demonstrating adherence to safety protocols and effective communication with dispatch personnel.
+- Loaded and unloaded cargo using mechanical equipment such as forklifts and pallet jacks.
+- Communicated with dispatch personnel to obtain instructions on where to position cargo.
+- Ensured that the cargo was properly stowed to prevent shifting or damage during transport and checked for damage or defects before accepting from supplier or delivering to customer.
+- Assigned tasks based on cargo/PAX arriving & departing from EWR to a team of 3-5.
+- Maintained timely, accurate, and complete inventory records of incoming and outgoing shipments.
+- Reviewed manifests to ensure that shipments have been properly billed.
+- Promoted to Lead Ramp Agent within 6 months of employment.
 
-## Links
+### Ramp Agent – Worldwide Flight Services (April 2018 - April 2019)
+- Filed reports about any damaged or mishandled baggage upon inspection.
+- Recommended improvements to the baggage handling process to ensure efficiency and safety.
+- Returned lost items to the airline’s lost and found department for carrier processing and customer pick up.
+- Loaded and unloaded bags onto buses, trains, boats, or planes as directed by supervisors.
+- Checked IDs at security checkpoints to ensure that all passengers have valid tickets.
+- Loaded and unloaded cargo from trucks, trailers, buses, trains, boats, and planes onto conveyor belts or into warehouses or storage facilities.
 
-- GitHub: [https://github.com/Quatecha](https://github.com/Quatecha)
-- LinkedIn: [https://www.linkedin.com/in/quatecha/](https://www.linkedin.com/in/quatecha/)
-- Credly: [https://www.credly.com/users/quatecha-cleveland](https://wwww.credly.com/users/quatecha-cleveland)
+### Customer Success Specialist/Merchandiser – IKEA (September 2022 - July 2023)
+- Built relationships with retail customers to drive sales and promote products.
+- Conducted product demonstrations and presentations to educate customers.
+- Identified sales opportunities and implemented strategies to achieve targets.
+- Responded to customer inquiries and resolved issues in a professional manner.
 
-## Assessments
+## Education
+- Barringer High School — Diploma (June 2012)
+- The Knowledge House — Cybersecurity Fellowship (September 2023 - Exp. September 2024)
+  - Performing security operations that enable DevOps, Product Engineering, and Infrastructure & Operations in providing security solutions, architectural design, development, deployment, and optimization for functions in AWS cloud by participating in a project-based, cybersecurity curriculum with 400+ hours of technical instruction.
 
-### Management & Leadership Skills: Impact & Influence — Proficient
-*January 2022*
+## Projects
+### AWS Ethical Hacking Lab [Quatecha/Phase-2-Final-Project_TKH-: Resources](github.com)
+- **Date:** 03/2024
+- **Description:** Create a comprehensive virtual cybersecurity home lab on AWS to simulate real-world security scenarios, allowing for hands-on practice in deploying, configuring, and securing AWS services. The goal is to enhance practical understanding of AWS security offerings and strengthen cybersecurity skills in a safe, controlled environment.
+- **Languages/Frameworks/PM Tools:**
+  - AWS Services: EC2, VPC, IAM, S3, CloudWatch, CloudTrail, WAF, GuardDuty, Inspector, Security Hub
+  - Security Tools: AWS Config, AWS Firewall Manager, AWS Key Management Service (KMS), AWS Secrets Manager
+  - Networking: AWS Transit Gateway, VPN Connections
+  - Scripting: Python, Bash
+  - Project Management: Jira, Trello
 
-### Attention to Detail — Proficient
-*October 2021*
+## Contact Information
+- LinkedIn: [linkedin.com/in/quatechacwebb](https://www.linkedin.com/in/quatechacwebb)
+- Github: [github.com/quatechacwebb](https://github.com/quatechacwebb)
+- Email: quatecha.21@gmail.com
 
-### Delivery Driver — Proficient
-*December 2021*
-
-### Sales Skills — Proficient
-*April 2022*
-
-### Social Media — Completed
-*October 2021*
-
-### Work Style: Reliability — Proficient
-*October 2021*

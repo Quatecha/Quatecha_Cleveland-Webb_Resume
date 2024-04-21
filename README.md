@@ -17,12 +17,7 @@ I am a versatile professional with a blend of technical expertise and interperso
 - Project Management
 - Digital Technology
 - Visual Merchandising
-- Aircraft Pushback
-- Safety Procedures
-- Equipment Operations
-- FAA
-- Ramp Operations
-- Dangerous Goods
+  
 
 ## Experience
 ### Customer Support Specialist – Ediscovery Software (January 2024 - March 2024)
@@ -46,13 +41,9 @@ I am a versatile professional with a blend of technical expertise and interperso
 - Reviewed manifests to ensure that shipments have been properly billed.
 - Promoted to Lead Ramp Agent within 6 months of employment.
 
-### Ramp Agent – Worldwide Flight Services (April 2018 - April 2019)
-- Filed reports about any damaged or mishandled baggage upon inspection.
-- Recommended improvements to the baggage handling process to ensure efficiency and safety.
-- Returned lost items to the airline’s lost and found department for carrier processing and customer pick up.
-- Loaded and unloaded bags onto buses, trains, boats, or planes as directed by supervisors.
-- Checked IDs at security checkpoints to ensure that all passengers have valid tickets.
-- Loaded and unloaded cargo from trucks, trailers, buses, trains, boats, and planes onto conveyor belts or into warehouses or storage facilities.
+### Amazon Seller Central - Amazon Storefront Owner (March 2022 - Present)
+- Manage and optimize product listings on Amazon Seller Central to maximize visibility, conversion rates, and sales.
+● Conduct keyword research and implement SEO strategies to improve product discoverability and search rankings.
 
 ### Customer Success Specialist/Merchandiser – IKEA (September 2022 - July 2023)
 - Built relationships with retail customers to drive sales and promote products.
